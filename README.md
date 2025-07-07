@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poonam Shrestha</h1>
-<h3 align="center">A passionate Front-End Software engineer from :us: </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punams15&label=Profile%20views&color=0e75b6&style=flat" alt="punams15" /> </p>
+<h3 align="center">A passionate Front-End Software engineer from USA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punams15" alt="punams15" /></a> </p>
 
@@ -17,4 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punams15&show_icons=true&locale=en" alt="punams15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punams15&" alt="punams15" /></p>
-
