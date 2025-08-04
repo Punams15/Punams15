@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Poonam Shrestha</h1>
-<h3 align="center">A passionate and detail-oriented Software engineer from USA <img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/4085c872-c849-45bd-bcb4-69b7ab275faf"/>
+<h1 align="center">Hi 👋, I'm Poonam Shrestha🪬🧿</h1>
+<h2 align="center">“Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h2>
+<h3 align="center">I'm a kind-hearted ,passionate and detail-oriented Software engineer from USA <img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/4085c872-c849-45bd-bcb4-69b7ab275faf"/>
 </h3>
 
 <h3 align="left">✨ Languages and Tools ✨ </h3> 
