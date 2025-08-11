@@ -3,11 +3,16 @@
 </h3>
 
 <h2></h2>
-<h2 align="center">“Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h2>
-<h2 align="center">“If you have to hurt other people in order to feel powerful, you are an extremely weak individual.” ~ Bobby J Mattingly </h2>
-<h2 align="center">“Not everyone staring at you is admiring you. Some are amazed you survived the trap they set for you...Keep shining..” ~ 4AM Thoughts </h2>
-<h2 align="center">“There's a natural law of karma that vindictive people, who go out of their way to hurt others, will end up broke and alone.” ~ Sylvester Stallone </h2>
-<h2 align="center">“Remember that jealousy is when you count someone else's blessings instead of your own.” ~ Roy T. Bennett, The Light in the Heart </h2>
+<h4 align="center">“Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h4>
+<h2></h2>
+<h4 align="center">“If you have to hurt other people in order to feel powerful, you are an extremely weak individual.” ~ Bobby J Mattingly </h4>
+<h2></h2>
+<h4 align="center">“Not everyone staring at you is admiring you. Some are amazed you survived the trap they set for you...Keep shining..” ~ 4AM Thoughts </h4>
+<h2></h2>
+<h4 align="center">“There's a natural law of karma that vindictive people, who go out of their way to hurt others, will end up broke and alone.” ~ Sylvester Stallone </h4>
+<h2></h2>
+<h4 align="center">“Remember that jealousy is when you count someone else's blessings instead of your own.” ~ Roy T. Bennett, The Light in the Heart </h4>
+<h2></h2>
 
 
 <h3 align="left">✨ Languages and Tools ✨ </h3> 
@@ -35,6 +40,9 @@
 </picture>
 
 ✨ Random github Quote ✨ 
+<h2></h2>
+“The expert in anything was once a beginner” — Helen Hayes
+<h2></h2>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
