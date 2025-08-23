@@ -1,16 +1,15 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Poonam+Shrestha+🪬+🧿)](https://git.io/typing-svg) 
-<h4 align="center">I'm a kind-hearted ,passionate and detail-oriented Software engineer from USA <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/4085c872-c849-45bd-bcb4-69b7ab275faf"/></h4>
+<h4 align="left">I'm a kind-hearted ,passionate and detail-oriented Software engineer from USA <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/4085c872-c849-45bd-bcb4-69b7ab275faf"/></h4>
 <h2></h2>
-<h4 align="center">“Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h4>
+<h4 align="left">“Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h4>
 <h2></h2>
-<h4 align="center">“If you have to hurt other people in order to feel powerful, you are an extremely weak individual.” ~ Bobby J Mattingly </h4>
+<h4 align="left">“If you have to hurt other people in order to feel powerful, you are an extremely weak individual.” ~ Bobby J Mattingly </h4>
 <h2></h2>
-<h4 align="center">“Not everyone staring at you is admiring you. Some are amazed you survived the trap they set for you...Keep shining..” ~ 4AM Thoughts </h4>
+<h4 align="left">“Not everyone staring at you is admiring you. Some are amazed you survived the trap they set for you...Keep shining..” ~ 4AM Thoughts </h4>
 <h2></h2>
-<h4 align="center">“There's a natural law of karma that vindictive people, who go out of their way to hurt others, will end up broke and alone.” ~ Sylvester Stallone </h4>
+<h4 align="left">“There's a natural law of karma that vindictive people, who go out of their way to hurt others, will end up broke and alone.” ~ Sylvester Stallone </h4>
 <h2></h2>
-<h4 align="center">“Remember that jealousy is when you count someone else's blessings instead of your own.” ~ Roy T. Bennett, The Light in the Heart </h4>
+<h4 align="left">“Remember that jealousy is when you count someone else's blessings instead of your own.” ~ Roy T. Bennett, The Light in the Heart </h4>
 <h2></h2>
 
 
@@ -40,8 +39,9 @@
 
 ✨ Random github Quote ✨ 
 <h2></h2>
-“The expert in anything was once a beginner” — Helen Hayes
+
+“The expert in anything was once a beginner” — Helen Hayes 
 <h2></h2>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) 
 
