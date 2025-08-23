@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Poonam Shrestha🪬🧿</h1>
-<h3 align="center">I'm a kind-hearted ,passionate and detail-oriented Software engineer from USA <img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/4085c872-c849-45bd-bcb4-69b7ab275faf"/>
-</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Poonam+Shrestha+🪬+🧿)](https://git.io/typing-svg) 
+I'm a kind-hearted ,passionate and detail-oriented Software engineer from USA <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/4085c872-c849-45bd-bcb4-69b7ab275faf"/>
 <h2></h2>
 <h4 align="center">“Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h4>
 <h2></h2>
