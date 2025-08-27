@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Poonam+Shrestha+🪬+🧿)](https://git.io/typing-svg) 
 <h3 align="left">I'm a kind-hearted ,passionate and detail-oriented Software engineer from USA <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/4085c872-c849-45bd-bcb4-69b7ab275faf"/></h3>
 <h2></h2>
-<h4 align="left">“Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h4>
+<h4 align="left"> 🎯 “Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.” ~ Joyce Meyer </h4>
 <h2></h2>
 <h4 align="left">“If you have to hurt other people in order to feel powerful, you are an extremely weak individual.” ~ Bobby J Mattingly </h4>
 <h2></h2>
