@@ -12,12 +12,17 @@
 <h4 align="left">“Remember that jealousy is when you count someone else's blessings instead of your own.” ~ Roy T. Bennett, The Light in the Heart </h4>
 <h2></h2>
 
+
 ## 🎓 Certificates
 
-- [Poonam Shrestha Kepler-1 Certificate](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Kepler-1.pdf)
-- [Poonam Shrestha Kiwi Certificate](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Kiwi.pdf)
-- [Poonam Shrestha Knifejaw Certificate](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Knifejaw.pdf)
+### 🪐 Kepler-1 Certificate
+[![Poonam Shrestha Kepler-1](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Kepler-1.jpg)](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Kepler-1.pdf)
 
+### 🥝 Kiwi Certificate
+[![Poonam Shrestha Kiwi](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Kiwi.jpg)](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Kiwi.pdf)
+
+### 🐟 Knifejaw Certificate
+[![Poonam Shrestha Knifejaw](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Knifejaw.jpg)](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Knifejaw.pdf)
 
 ## 📥 Download Certificates
 
