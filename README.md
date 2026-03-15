@@ -15,6 +15,9 @@
 
 ## 🎓 Certificates
 
+### 🦁 Lion Certificate
+[![Poonam Shrestha Lion](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Lion.jpg)](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Lion.pdf)
+
 ### 🪐 Kepler-1 Certificate
 [![Poonam Shrestha Kepler-1](https://github.com/Punams15/CTD/blob/main/Poonam%20Shrestha%20Kepler-1.jpg)](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Kepler-1.pdf)
 
@@ -26,6 +29,7 @@
 
 ## 📥 Download Certificates
 
+- [Download Lion PDF](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Lion.pdf)
 - [Download Kepler-1 PDF](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Kepler-1.pdf)
 - [Download Kiwi PDF](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Kiwi.pdf)
 - [Download Knifejaw PDF](https://github.com/Punams15/CTD/raw/main/Poonam%20Shrestha%20Knifejaw.pdf)
